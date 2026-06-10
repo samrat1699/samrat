@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiongshi Lu | Daniel J. Panyard, PhD</title>
+    <link>https://dpanyard.github.io/authors/qiongshi-lu/</link>
+      <atom:link href="https://dpanyard.github.io/authors/qiongshi-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiongshi Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpanyard.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Qiongshi Lu</title>
+      <link>https://dpanyard.github.io/authors/qiongshi-lu/</link>
+    </image>
+    
+    <item>
+      <title>Liver-specific polygenic risk score is more strongly associated than genome-wide score with Alzheimer&#39;s disease diagnosis in a case-control analysis</title>
+      <link>https://dpanyard.github.io/publication/panyard-liver-specific-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://dpanyard.github.io/publication/panyard-liver-specific-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebrospinal fluid metabolomics identifies 19 brain-related phenotype associations</title>
+      <link>https://dpanyard.github.io/publication/panyard-cerebrospinal-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://dpanyard.github.io/publication/panyard-cerebrospinal-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

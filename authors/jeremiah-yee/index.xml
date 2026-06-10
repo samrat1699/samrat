@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremiah Yee | Daniel J. Panyard, PhD</title>
+    <link>https://dpanyard.github.io/authors/jeremiah-yee/</link>
+      <atom:link href="https://dpanyard.github.io/authors/jeremiah-yee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremiah Yee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpanyard.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jeremiah Yee</title>
+      <link>https://dpanyard.github.io/authors/jeremiah-yee/</link>
+    </image>
+    
+    <item>
+      <title>RNA expression profiling in sulfamethoxazole-treated patients with a range of in vitro lymphocyte cytotoxicity phenotypes</title>
+      <link>https://dpanyard.github.io/publication/reinhart-rna-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpanyard.github.io/publication/reinhart-rna-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

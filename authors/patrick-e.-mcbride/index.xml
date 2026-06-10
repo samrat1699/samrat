@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick E. McBride | Daniel J. Panyard, PhD</title>
+    <link>https://dpanyard.github.io/authors/patrick-e.-mcbride/</link>
+      <atom:link href="https://dpanyard.github.io/authors/patrick-e.-mcbride/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick E. McBride</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dpanyard.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Patrick E. McBride</title>
+      <link>https://dpanyard.github.io/authors/patrick-e.-mcbride/</link>
+    </image>
+    
+    <item>
+      <title>Connecting Rheumatology Patients to Primary Care for High Blood Pressure: Specialty clinic protocol improves follow-up and population blood pressures</title>
+      <link>https://dpanyard.github.io/publication/bartels-connecting-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://dpanyard.github.io/publication/bartels-connecting-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quit Connect Health Toolkit</title>
+      <link>https://dpanyard.github.io/publication/bartels-quit-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://dpanyard.github.io/publication/bartels-quit-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
