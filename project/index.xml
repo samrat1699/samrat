@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Daniel J. Panyard, PhD</title>
-    <link>https://dpanyard.github.io/project/</link>
-      <atom:link href="https://dpanyard.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samrat1699.github.io/samrat/project/</link>
+      <atom:link href="https://samrat1699.github.io/samrat/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dpanyard.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://samrat1699.github.io/samrat/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://dpanyard.github.io/project/</link>
+      <link>https://samrat1699.github.io/samrat/project/</link>
     </image>
     
     <item>
       <title>EDI statement</title>
-      <link>https://dpanyard.github.io/project/edi/</link>
+      <link>https://samrat1699.github.io/samrat/project/edi/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://dpanyard.github.io/project/edi/</guid>
+      <guid>https://samrat1699.github.io/samrat/project/edi/</guid>
       <description>&lt;p&gt;A welcoming and inclusive environment is essential to a healthy research lab. The practice of science requires the confidence to take intellectual risks, but such confidence can be undermined in settings where students or scientists feel excluded. In epidemiology and bio-data science, where a wide range of skills and experiences across biology, statistics, and computer science are required, it can be especially daunting to students who are already being asked to step outside of their academic comfort zone. Encouraging mentors and advisors are crucial to ensure that students and colleagues feel welcome.&lt;/p&gt;
 &lt;p&gt;In my training, I have experienced positive research environments from a diverse group of research mentors, and these experiences now guide how I have treated the diverse group of mentees I have had. For instance, since most students are unfamiliar with either the basics of genetics or the basics of computer programming, I have created a series of training modules for each subject area our research involves. As I get to know a new mentee, I work with them to find out what skills they want to grow in to feel confident in their work with me, and then I hold a series of one-on-one meetings where we review the training modules on those topics so that they can get a head start on learning those skills. The modularization allows me to tailor these learning tasks to each individual student’s background. In a broader sense, too, I take care to check in with students about academic and scientific terminology we encounter. It can be isolating to not understand the nuances of the academic world, so I make sure to contextualize terminology about graduate school, scientific publishing, and grants as needed for my students.&lt;/p&gt;
 &lt;p&gt;As I move further in my career, I look forward to being able to continue these efforts. Working in the context of population cohorts especially provides opportunities to promote diversity and inclusion. In large-scale genetic studies, working with diverse populations provides benefits to a broader range of the public, increases the generalizability of results, provides novel insights into health and disease. Community-based studies are also an opportunity to give back to the communities participating in the research. I have been inspired by work I have seen at the University of Wisconsin in Alzheimer’s disease, where the scientists conducting the research hold regular events with the community to share the highlights of the research that community has enabled through their participation. I would enjoy the chance to support or organize similar efforts with the communities I end up working with. Outside of a cohort study, I would also like to continue my outreach to undergraduates and high school students. I have been able to speak to several different high schools already about the work that I do, including in communities where science research is not a common career path. I would like to continue this outreach to schools, particularly those serving students who may be more educationally disadvantaged. These efforts could be supplemented with recorded talks and activities that could be more broadly disseminated online, which would further increase the outreach possible.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Teaching statement</title>
-      <link>https://dpanyard.github.io/project/teaching/</link>
+      <link>https://samrat1699.github.io/samrat/project/teaching/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://dpanyard.github.io/project/teaching/</guid>
+      <guid>https://samrat1699.github.io/samrat/project/teaching/</guid>
       <description>&lt;h2 id=&#34;overall-teaching-philosophy&#34;&gt;Overall teaching philosophy&lt;/h2&gt;
 &lt;p&gt;Research and education go hand-in-hand. Well-taught, empowered students make for effective and independent new researchers, who in turn make for more self-motivated and ambitious students and trainees. Effective teaching builds technical and theoretical competency in the evaluation, planning, and execution of scientific research that prepares students to hit the ground running when they begin research. Prepared students work faster and create higher quality work, which grants a sense of accomplishment and progress that helps sustain their motivation through tougher periods of work. Effective teaching also builds interest in the discipline being taught among the student body. When students build concrete skills through their coursework, they can more easily see themselves as researchers using those skills, increasing their confidence enough that they may choose to pursue research opportunities with their professor or similar researchers.&lt;/p&gt;
 &lt;p&gt;For research faculty, these skills and interest in research are important traits to foster in a graduate or undergraduate program. Overall interest in the program will grow, fueling a stronger applicant pool for graduate programs and research labs, leading to trainees who can more effectively contribute. Solid skills-oriented teaching, then, is a crucial component for sustained success as a research faculty member.&lt;/p&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>CV</title>
-      <link>https://dpanyard.github.io/project/cv/</link>
+      <link>https://samrat1699.github.io/samrat/project/cv/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://dpanyard.github.io/project/cv/</guid>
+      <guid>https://samrat1699.github.io/samrat/project/cv/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
     </item>
